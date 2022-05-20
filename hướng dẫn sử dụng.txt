@@ -1,0 +1,37 @@
+---------------------------------------------------Giới thiệu-------------------------------------------------------------
+Các thành viên trong nhóm:
+1) Trịnh Văn Triều
+2) Lê Hoàng Đức
+3) Lê Việt Sanh
+4) Võ Quang Trường
+5) Tạ Minh Vũ 
+6) Phan Quốc Toàn 
+7) Phạm Minh Trí  
+8) Trương Khắc Trường 
+9) Võ Ngọc Minh Trang 
+---------------------------------------------------Các tài khoản quản trị-------------------------------------------------
+*)Tài khoản admin: admin
+Pass:admin
+*)Tài khoản nhân viên quản trị: nhan_vien_quan_li
+Pass:123
+*)Tài khoản nhân viên bán hàng: nhan_vien_ban_hang
+Pass:123
+---------------------------------------------------Các tài khoản người dùng ----------------------------------------------
+*)levietsanh@gmail.com
+Pass: 123456789
+*)trinhvantrieu@gmail.com
+Pass: 123456789
+*)lehoangduc@gmail.com
+Pass: 123456789
+*)taminhvu@gmail.com
+Pass: 123456789
+*)voquangtruong@gmail.com
+Pass: 123456789
+*)phamminhtri@gmail.com
+Pass: 123456789
+*)truongkhactruong@gmail.com
+Pass: 1234556789
+*)phanquoctoan@gmail.com
+Pass: 123456789
+*)vongocminhtrang@gmail.com
+Pass: 123456789
