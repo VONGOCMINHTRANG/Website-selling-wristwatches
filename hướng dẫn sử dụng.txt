@@ -11,7 +11,7 @@ Các thành viên trong nhóm:
 9) Võ Ngọc Minh Trang 
 ---------------------------------------------------Các tài khoản quản trị-------------------------------------------------
 *)Tài khoản admin: admin
-Pass:admin
+Pass:123
 *)Tài khoản nhân viên quản trị: nhan_vien_quan_li
 Pass:123
 *)Tài khoản nhân viên bán hàng: nhan_vien_ban_hang
